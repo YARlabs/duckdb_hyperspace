@@ -156,3 +156,4 @@ mod tests {
         assert!(w.abs() < 1e-9); // Identical empirical distributions
     }
 }
+

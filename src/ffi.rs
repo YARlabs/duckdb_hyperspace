@@ -37,3 +37,4 @@ pub unsafe extern "C" fn hs_duckdb_distance(
     };
     compute_distance(u, v, metric)
 }
+

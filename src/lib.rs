@@ -24,3 +24,4 @@ pub use arrow_bridge::{
 };
 pub use kernels::{compute_distance, lorentz_lift, ManifoldMetric};
 pub use sql::generate_duckdb_init_sql;
+

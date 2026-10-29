@@ -72,3 +72,4 @@ mod tests {
         assert!(sql.contains("hyperspace_lorentz_lift"));
     }
 }
+
